@@ -1,0 +1,42 @@
+h1{
+    color: crimson;
+}
+
+.header{
+
+    font-size: 20px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 132, 255, 0.918);
+    display: flex;
+    justify-content: space-between;
+}
+
+.images{
+    
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+}
+
+.content{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#head{
+
+   
+    text-align: center;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
